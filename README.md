@@ -14,3 +14,5 @@
 
 중복 if 블록을 사용하고 코드 전체의 가독성을 고려해 답안을 작성하시오.
 ```
+
+![제목 없는 그림](https://user-images.githubusercontent.com/71861051/107450053-eb74f600-6b87-11eb-94d2-d400e595d458.png)
